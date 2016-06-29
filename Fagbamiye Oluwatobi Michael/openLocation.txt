@@ -1,0 +1,352 @@
+place
+"20km SE of Gold Bar
+"Pacific-Antarctic Ridge"
+"4km S of Indios
+"4km SW of Santa Monica
+"102km WSW of Manismata
+"91km NW of San Antonio
+"5km SW of Liborio Negron Torres
+"115km NW of Kota Ternate
+"13km N of Aratoca
+"103km SSW of Manzanillo
+"102km SSE of Yonakuni
+"22km ENE of Mooreland
+"131km N of Visokoi Island
+"Reykjanes Ridge"
+"94km S of Raoul Island
+"Reykjanes Ridge"
+"62km W of Willow
+"65km NNE of Talkeetna
+"2km SSW of Sarzana
+"68km W of Anchor Point
+"45km NNW of `Alaqahdari-ye Kiran wa Munjan
+"23km SW of Coalinga
+"9km SE of Challis
+"129km N of Visokoi Island
+"175km NNE of Raoul Island
+"66km SSW of Redoubt Volcano
+"196km E of Amahai
+"28km WNW of Warm Springs
+"12km NNE of Aratoca
+"10km NNE of Medford
+"Scotia Sea"
+"Reykjanes Ridge"
+"Reykjanes Ridge"
+"109km SSW of Homer
+"53km WSW of Rosarito
+"10km NNW of Abdanan
+"181km NNW of Sola
+"112km W of Port-Vila
+"137km N of Visokoi Island
+"44km N of Valdez
+"21km SSE of Ridgemark
+"6km N of Ayaviri
+"11km SW of Khvoy
+"32km S of Willow Creek
+"26km NE of Hollister
+"266km NNW of Farallon de Pajaros
+"80km NNW of Monywa
+"7km SE of Aguas Claras
+"8km E of Talkeetna
+"47km SW of Kota Ternate
+"16km SSW of Alva
+"37km SSW of Iwo Jima
+"10km WSW of Ciudad Sandino
+"44km W of Ovalle
+"45km W of Ovalle
+"82km N of Culebra
+"80km SSE of Adak
+"68km N of Road Town
+"176km WSW of Sibolga
+"65km S of Hihifo
+"170km WSW of Sibolga
+"30km SSE of Ixhuatan
+"4km NW of Anthony
+"106km SE of Atka
+"5km S of Trujillo Alto
+"41km WSW of Adak
+"4km W of Brawley
+"3km W of Cobb
+"South of the Fiji Islands"
+"236km WNW of Tual
+"13km SE of Little Sitkin Island
+"Southern Mid-Atlantic Ridge"
+"59km ENE of Chignik Lake
+"68km WNW of Namatanai
+"18km WSW of Helena
+"Northern Mid-Atlantic Ridge"
+"Northern Mid-Atlantic Ridge"
+"184km WSW of Sibolga
+"38km N of Turkmenbasy
+"177km WSW of Sibolga
+"55km WSW of Stella
+"67km SSE of Muara Siberut
+"5km SW of Cherokee
+"South of the Fiji Islands"
+"27km W of Pacocha
+"21km SE of Wellington
+"13km S of Ndoi Island
+"111km E of Kimbe
+"188km WSW of L'Esperance Rock
+"8km SSE of Langston
+"58km NNE of Larsen Bay
+"26km N of Nagarkot
+"211km NNW of Saumlaki
+"83km NNW of Road Town
+"5km SW of Aguilita
+"13km WNW of Helena West Side
+"55km W of Big Lake
+"30km NW of Fairview
+"31km N of Searles Valley
+"56km NNE of Port-Vila
+"22km NE of Luquillo
+"238km SE of Lambasa
+"77km W of Constitucion
+"21km S of Hukumati Dahanah-ye Ghori
+"155km WNW of Haines Junction
+"56km S of Molibagu
+"130km NE of San Pedro de Atacama
+"99km W of San Antonio de los Cobres
+"30km ENE of Nanae
+"18km NE of Norsup
+"118km NE of Tadine
+"233km NE of Fais
+"12km SSE of Volcano
+"29km NW of Fairview
+"56km SW of Mayo
+"48km WNW of San Antonio de los Cobres
+"190km WSW of Hachijo-jima
+"21km NE of Yilan
+"54km W of West Yellowstone
+"7km N of Big Bear Lake
+"19km S of Charlotte Amalie
+"15km W of Willow
+"105km SSW of False Pass
+"12km NE of Luquillo
+"93km SW of Isangel
+"38km N of Otra Banda
+"Off the west coast of northern Sumatra"
+"77km WSW of Coquimbo
+"83km SSW of Nikolski
+"196km N of Tobelo
+"59km NE of Taitung City
+"164km ENE of L'Esperance Rock
+"130km NNW of Charlotte Amalie
+"Ascension Island region"
+"Ascension Island region"
+"8km NNE of Ridgeway
+"38km WSW of Tanaga Volcano
+"98km SSE of Chignik Lake
+"98km SSW of Nikolski
+"54km WSW of Sabtang
+"82km NW of Chirikof Island
+"116km SW of Isangel
+"4km SW of Saint-Lambert-du-Lattay
+"95km SSE of Chignik Lake
+"110km WNW of Tobelo
+"92km SSW of Nikolski
+"7km NW of Blackwell
+"150km ESE of Iquique
+"41km NW of Sand Point
+"25km ENE of Linares
+"160km SW of Amatignak Island
+"83km SSW of Alberto Oviedo Mota
+"52km NW of Aguadilla
+"34km E of Redoubt Volcano
+"54km SW of Amukta Island
+"9km NE of Zonda
+"117km SW of Isangel
+"92km SSW of Isangel
+"108km NNW of San Antonio
+"164km S of False Pass
+"32km SW of Atka
+"117km SW of Isangel
+"48km NW of False Pass
+"80km N of Vieques
+"114km SW of Isangel
+"91km SSW of Isangel
+"84km SSW of Isangel
+"74km SW of Isangel
+"68km N of Little Sitkin Island
+"63km S of Sand Point
+"24km S of Twentynine Palms
+"24km S of Twentynine Palms
+"61km SSW of Juli
+"62km E of Atka
+"36km W of Raton
+"118km ESE of Bitung
+"101km NNE of Road Town
+"136km NE of Aksu
+"20km W of Helena
+"264km WNW of Saumlaki
+"Southwest Indian Ridge"
+"98km NNE of Luquillo
+"Ascension Island region"
+"24km SSE of Old Faithful Geyser
+"31km SW of Anchor Point
+"91km ENE of Norsup
+"63km SE of Boca de Yuma
+"8km NNE of Harrah
+"138km S of False Pass
+"124km WNW of Bengkulu
+"Izu Islands
+"118km SSW of Isangel
+"83km SW of Amukta Island
+"204km WSW of Puerto Natales
+"221km NNW of Saumlaki
+"78km W of San Antonio de los Cobres
+"35km NE of Jarm
+"13km S of Langston
+"78km NE of Santa Barbara de Samana
+"27km NW of Ayaviri
+"Southwest Indian Ridge"
+"89km SW of Amukta Island
+"216km W of Ferndale
+"26km SSE of Semisopochnoi Island
+"8km W of Uto
+"147km S of False Pass
+"115km W of San Antonio de los Cobres
+"213km S of Punta de Burica
+"23km ENE of Lata
+"43km NE of Nikolski
+"141km S of False Pass
+"105km SSW of Kota Ternate
+"22km NW of Aguadilla
+"148km S of False Pass
+"47km E of Amatignak Island
+"138km NW of Kota Ternate
+"148km S of False Pass
+"55km SW of Kiska Volcano
+"97km NNE of Road Town
+"20km ESE of Anza
+"143km S of False Pass
+"96km NE of Chernabura Island
+"24km ENE of Oarai
+"Southern East Pacific Rise"
+"99km ENE of Keelung
+"111km SSE of Lata
+"26km SSE of Trona
+"73km NE of Adak
+"95km NNW of Road Town
+"27km E of Redoubt Volcano
+"91km NNW of Road Town
+"123km NNE of Tadine
+"12km N of Hopewell
+"7km S of Big Bear City
+"73km SSW of Unalaska
+"202km E of Hachijo-jima
+"94km NNE of Palue
+"123km SSW of Isangel
+"44km E of Kerman
+"3km N of Vieques
+"Kepulauan Barat Daya
+"15km WSW of Little Sitkin Island
+"70km NNW of Road Town
+"64km W of Ovalle
+"69km NNW of Road Town
+"7km ENE of Edmond
+"22km WSW of Coquimbo
+"56km SSW of Calama
+"34km SSW of Boca de Yuma
+"79km E of Old Iliamna
+"14km WSW of Anchor Point
+"153km W of Longyearbyen
+"30km NNE of Arecibo
+"91km E of Naze
+"15km N of Arecibo
+"14km WSW of Juliaca
+"7km SE of Yucca Valley
+"20km W of Humboldt Hill
+"5km ENE of Ridgeway
+"25km E of Cherokee
+"121km NE of Tadine
+"8km ENE of Circle Hot Springs Station
+"10km N of San Antonio
+"21km NNW of San Antonio
+"129km SSW of Isangel
+"22km N of Arecibo
+"274km NNW of Saumlaki
+"13km ESE of Enid
+"22km ENE of Nanae
+"23km ENE of Cherokee
+"31km NW of Anchor Point
+"36km SSE of Pecos
+"14km WSW of Ovalle
+"24km SE of Ndoi Island
+"Kuril Islands"
+"24km E of Fallon
+"171km S of False Pass
+"7km S of Perry
+"114km SSE of Lorengau
+"43km ESE of Pucallpa
+"3km E of Finca Blanco Numero Uno
+"10km SSW of Alva
+"26km WSW of Talkeetna
+"221km WSW of Riverton
+"24km S of Twentynine Palms
+"11km SW of Auki
+"11km SSW of Alva
+"106km W of Old Iliamna
+"90km WNW of Vallenar
+"86km ESE of Maneadero
+"10km ENE of Mooreland
+"10km NNW of Iztapa
+"9km SSW of Alva
+"10km SSW of Alva
+"57km NNE of Atka
+"11km SW of Pueblo Nuevo Tiquisate
+"66km NW of Sola
+"47km NNW of San Antonio
+"0km SSE of Stella
+"87km WSW of Amatignak Island
+"17km SSE of Gabbs
+"63km N of Hatillo
+"44km ESE of Road Town
+"43km W of `Alaqahdari-ye Kiran wa Munjan
+"62km NNW of Charlotte Amalie
+"4km WSW of Brawley
+"Balleny Islands region"
+"90km NNE of Vieques
+"7km SSW of Perry
+"33km W of Nuqui
+"276km S of Kute
+"63km NNW of Port-Olry
+"123km WNW of L'Esperance Rock
+"10km WNW of Caldwell
+"Southwest Indian Ridge"
+"Southwest Indian Ridge"
+"6km WNW of Anza
+"77km WNW of La Ligua
+"12km S of Langston
+"149km N of Calama
+"Southern Mid-Atlantic Ridge"
+"194km ESE of Enarotali
+"93km W of Harian
+"78km NNE of Atka
+"4km WSW of Brawley
+"4km WSW of Brawley
+"94km SSW of Sand Point
+"16km SSW of Cherokee
+"52km NNW of Atka
+"50km NW of San Antonio
+"60km NW of Ester
+"100km SSW of Unalaska
+"39km SW of Adak
+"185km S of Atka
+"171km SSE of Naze
+"28km NW of Tanaga Volcano
+"52km W of West Yellowstone
+"57km E of Road Town
+"98km NNW of Isangel
+"100km NNE of Chignik Lake
+"20km ENE of Chepen
+"95km NNE of Chignik Lake
+"14km WSW of Stella
+"32km NNE of Sterling
+"9km S of San Vicente Pacaya
+"91km N of Vieques
+"69km SW of Ocos
+"122km NE of Chignik Lake
+"15km NE of Arecibo
+"40km SSE of Campo
+"65km SW of Ocos
